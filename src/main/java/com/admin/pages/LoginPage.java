@@ -4,6 +4,8 @@ public class LoginPage {
 
 	public void test() {
 		
+		System.out.println("Git Test");
+		
 	}
 	
 }
