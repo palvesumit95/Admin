@@ -4,6 +4,8 @@ public class LoginPageTest {
 
 	public void Login() {
 		
+		System.out.println("Hello");
+	
 	}
 	
 }
